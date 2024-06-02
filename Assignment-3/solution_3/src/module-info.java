@@ -1,0 +1,3 @@
+module solution_3 {
+	
+}
